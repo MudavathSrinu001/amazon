@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    border:border-box;
+}
+.nav{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+.logo{
+    height: 50px;
+    width: 100px;
+
+}
+.ll{
+    background-image:url(th.jpeg);
+    background-size: cover;
+    height: 50px;
+    width:100%;
+}
+.border{
+    border: 2px transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
